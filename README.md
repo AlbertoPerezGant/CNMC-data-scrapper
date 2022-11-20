@@ -8,10 +8,8 @@ Para ejecutar el código es necesario instalar la siguientes bibliotecas:
 pip install sys
 pip install time
 pip install selenium
-
-pip install requests
-pip install requests-html
-pip install w3libf
+pip install pandas
+pip install beautifulsoup4
 ```
 
 Una vez en la página mencionada, se elige el tipo de contrato deseado:
