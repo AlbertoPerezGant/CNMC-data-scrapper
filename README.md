@@ -34,4 +34,3 @@ Actualmente se extraen los siguientes atributos de la web:
 * Servicios adicionales incluidos
 * Penalización
 * Verde
-*
