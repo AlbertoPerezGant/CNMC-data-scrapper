@@ -263,6 +263,7 @@ def get_gas_table(driver):
     
     df_gas = pd.DataFrame(table_list)
     df_gas.columns= headers_list
+    df_gas.drop(df_gas.columns[-1], axis=1, inplace=True)
     return df_gas
 
 
