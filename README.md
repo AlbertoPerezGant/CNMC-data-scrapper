@@ -32,3 +32,5 @@ Actualmente se extraen los siguientes atributos de la web:
 * Servicios adicionales incluidos
 * Penalización
 * Verde
+
+Destacar, que en el caso de los atributos que se extraen de las ofertas de gas, los importes se muestran anualizados.
